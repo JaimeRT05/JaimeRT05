@@ -1,4 +1,4 @@
-##Hi there, my name is Jaime Román Tejero and i’m from Spain.
+## Hi there, my name is Jaime Román Tejero and i’m from Spain.
 
 - 👨‍💻 *I’m currently studying web application design in IES Almudeyne*
 - 📫 *How to reach me:* 
